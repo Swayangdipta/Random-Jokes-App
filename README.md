@@ -6,7 +6,7 @@
 
 >[Project Live Link](https://random-jokes-app.vercel.app/)
 
-!['Homepage.png'](./screenshots/RandomJokes.PNG)
+!['Homepage.png'](screenshots/RandomJokes.PNG)
 
 [Project Live Link](https://random-jokes-app.vercel.app/)
 
